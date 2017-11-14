@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IAM">
+</Property><Property Name="Solution File" Value="D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM.sln">
+</Property><Property Name="Date" Value="Monday, January 30, 2017">
+</Property><Property Name="Time" Value="14:36:44 PM">
+</Property></Properties><Event ErrorLevel="0" Project="WinFormVBWebCam" Source="WinFormVBWebCam\WinFormVBWebCam.vbproj" Description="Project file successfully backed up as D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Backup\WinFormVBWebCam.vbproj">
+</Event><Event ErrorLevel="0" Project="WinFormVBWebCam" Source="WinFormVBWebCam\Form1.vb" Description="File successfully backed up as D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="WinFormVBWebCam" Source="WinFormVBWebCam\Form1.Designer.vb" Description="File successfully backed up as D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WinFormVBWebCam" Source="WinFormVBWebCam\Helper.vb" Description="File successfully backed up as D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Backup\Helper.vb">
+</Event><Event ErrorLevel="0" Project="WinFormVBWebCam" Source="WinFormVBWebCam\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="WinFormVBWebCam" Source="WinFormVBWebCam\My Project\Application.Designer.vb" Description="File successfully backed up as D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WinFormVBWebCam" Source="WinFormVBWebCam\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WinFormVBWebCam" Source="WinFormVBWebCam\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WinFormVBWebCam" Source="WinFormVBWebCam\WebCam.vb" Description="File successfully backed up as D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Backup\WebCam.vb">
+</Event><Event ErrorLevel="0" Project="WinFormVBWebCam" Source="WinFormVBWebCam\My Project\Application.myapp" Description="File successfully backed up as D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="WinFormVBWebCam" Source="WinFormVBWebCam\My Project\Settings.settings" Description="File successfully backed up as D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WinFormVBWebCam" Source="WinFormVBWebCam\Form1.resx" Description="File successfully backed up as D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="WinFormVBWebCam" Source="WinFormVBWebCam\My Project\Resources.resx" Description="File successfully backed up as D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WinFormVBWebCam" Source="WinFormVBWebCam\WinFormVBWebCam.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WinFormVBWebCam" Source="WinFormVBWebCam\WinFormVBWebCam.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WinFormVBWebCam" Source="WinFormVBWebCam\WinFormVBWebCam.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

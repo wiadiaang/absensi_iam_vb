@@ -1,0 +1,8 @@
+D:\Downloads\glasspanel_src\Glass\bin\Release\UI.Glass.Panel.dll
+D:\Downloads\glasspanel_src\Glass\bin\Release\UI.Glass.Panel.pdb
+D:\Downloads\glasspanel_src\Glass\bin\Release\UI.xml
+D:\Downloads\glasspanel_src\Glass\obj\Release\UI.Glass.Resources.resources
+D:\Downloads\glasspanel_src\Glass\obj\Release\GlassPanel.vbproj.GenerateResource.Cache
+D:\Downloads\glasspanel_src\Glass\obj\Release\UI.Glass.Panel.dll
+D:\Downloads\glasspanel_src\Glass\obj\Release\UI.xml
+D:\Downloads\glasspanel_src\Glass\obj\Release\UI.Glass.Panel.pdb

@@ -1,0 +1,129 @@
+D:\PROJECT DEVELOPER\Net\IAM\IAM\MinimazeTray\bin\Debug\MinimazeTray.exe
+D:\PROJECT DEVELOPER\Net\IAM\IAM\MinimazeTray\bin\Debug\MinimazeTray.pdb
+D:\PROJECT DEVELOPER\Net\IAM\IAM\MinimazeTray\bin\Debug\MinimazeTray.xml
+D:\PROJECT DEVELOPER\Net\IAM\IAM\MinimazeTray\bin\Debug\LibUsbDotNet.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\MinimazeTray\bin\Debug\USBHIDDRIVER.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\MinimazeTray\bin\Debug\nunit.framework.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\MinimazeTray\bin\Debug\USBHIDDRIVER.pdb
+D:\PROJECT DEVELOPER\Net\IAM\IAM\MinimazeTray\bin\Debug\USBHIDDRIVER.xml
+D:\PROJECT DEVELOPER\Net\IAM\IAM\MinimazeTray\bin\Debug\LibUsbDotNet.xml
+D:\PROJECT DEVELOPER\Net\IAM\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.vbprojResolveAssemblyReference.cache
+D:\PROJECT DEVELOPER\Net\IAM\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Resources.resources
+D:\PROJECT DEVELOPER\Net\IAM\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Form1.resources
+D:\PROJECT DEVELOPER\Net\IAM\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.vbproj.GenerateResource.Cache
+D:\PROJECT DEVELOPER\Net\IAM\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.exe
+D:\PROJECT DEVELOPER\Net\IAM\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.xml
+D:\PROJECT DEVELOPER\Net\IAM\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.pdb
+D:\PROJECT DEVELOPER\Net\IAM\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Form2.resources
+D:\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\MinimazeTray.exe
+D:\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\MinimazeTray.pdb
+D:\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\MinimazeTray.xml
+D:\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\LibUsbDotNet.xml
+D:\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.vbprojResolveAssemblyReference.cache
+D:\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Form2.resources
+D:\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Resources.resources
+D:\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Form1.resources
+D:\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.vbproj.GenerateResource.Cache
+D:\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.exe
+D:\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.xml
+D:\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.pdb
+E:\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\MinimazeTray.exe
+E:\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\MinimazeTray.pdb
+E:\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\MinimazeTray.xml
+E:\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\LibUsbDotNet.dll
+E:\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\LibUsbDotNet.xml
+E:\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Form2.resources
+E:\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Resources.resources
+E:\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Form1.resources
+E:\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.vbproj.GenerateResource.Cache
+E:\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.exe
+E:\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.xml
+E:\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\MinimazeTray.exe
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\MinimazeTray.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\MinimazeTray.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\LibUsbDotNet.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\WebCam_Capture.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\LibUsbDotNet.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Form2.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Resources.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Form1.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.vbproj.GenerateResource.Cache
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.exe
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.pdb
+K:\FOTO\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\MinimazeTray.exe
+K:\FOTO\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\MinimazeTray.pdb
+K:\FOTO\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\MinimazeTray.xml
+K:\FOTO\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\LibUsbDotNet.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\LibUsbDotNet.xml
+K:\FOTO\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.vbprojResolveAssemblyReference.cache
+K:\FOTO\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Form2.resources
+K:\FOTO\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Resources.resources
+K:\FOTO\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Form1.resources
+K:\FOTO\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.vbproj.GenerateResource.Cache
+K:\FOTO\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.exe
+K:\FOTO\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.xml
+K:\FOTO\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.pdb
+D:\PROJECT\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\MinimazeTray.exe
+D:\PROJECT\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\MinimazeTray.pdb
+D:\PROJECT\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\MinimazeTray.xml
+D:\PROJECT\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\LibUsbDotNet.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\MinimazeTray\bin\Debug\LibUsbDotNet.xml
+D:\PROJECT\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Form2.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Resources.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Form1.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.vbproj.GenerateResource.Cache
+D:\PROJECT\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.exe
+D:\PROJECT\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.xml
+D:\PROJECT\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.vbprojResolveAssemblyReference.cache
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\MinimazeTray\bin\Debug\MinimazeTray.exe
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\MinimazeTray\bin\Debug\MinimazeTray.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\MinimazeTray\bin\Debug\MinimazeTray.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\MinimazeTray\bin\Debug\LibUsbDotNet.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\MinimazeTray\bin\Debug\WebCam_Capture.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\MinimazeTray\bin\Debug\LibUsbDotNet.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Form2.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Resources.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Form1.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.vbproj.GenerateResource.Cache
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.exe
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\MinimazeTray\bin\Debug\MinimazeTray.exe
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\MinimazeTray\bin\Debug\MinimazeTray.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\MinimazeTray\bin\Debug\MinimazeTray.xml
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\MinimazeTray\bin\Debug\LibUsbDotNet.xml
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.vbprojResolveAssemblyReference.cache
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Form2.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Resources.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Form1.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.vbproj.GenerateResource.Cache
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.exe
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.xml
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\MinimazeTray\bin\Debug\MinimazeTray.exe
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\MinimazeTray\bin\Debug\MinimazeTray.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\MinimazeTray\bin\Debug\MinimazeTray.xml
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Form2.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Resources.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Form1.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.vbproj.GenerateResource.Cache
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.exe
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.xml
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.vbprojResolveAssemblyReference.cache
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\MinimazeTray\bin\Debug\MinimazeTray.exe
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\MinimazeTray\bin\Debug\MinimazeTray.pdb
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\MinimazeTray\bin\Debug\MinimazeTray.xml
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\MinimazeTray\bin\Debug\LibUsbDotNet.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\MinimazeTray\bin\Debug\WebCam_Capture.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\MinimazeTray\bin\Debug\LibUsbDotNet.xml
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Form2.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Resources.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.Form1.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.vbproj.GenerateResource.Cache
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.exe
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.xml
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\MinimazeTray\obj\x86\Debug\MinimazeTray.pdb

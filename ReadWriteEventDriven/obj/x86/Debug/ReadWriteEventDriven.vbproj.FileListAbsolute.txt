@@ -1,0 +1,2 @@
+D:\PROJECT DEVELOPER\Net\IAM\IAM\ReadWriteEventDriven\obj\x86\Debug\ReadWriteEventDriven.Resources.resources
+D:\PROJECT DEVELOPER\Net\IAM\IAM\ReadWriteEventDriven\obj\x86\Debug\ReadWriteEventDriven.vbproj.GenerateResource.Cache

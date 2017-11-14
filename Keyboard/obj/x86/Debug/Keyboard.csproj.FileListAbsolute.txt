@@ -1,0 +1,110 @@
+D:\PROJECT DEVELOPER\Net\IAM\IAM\Keyboard\bin\x86\Debug\Keyboard.exe.config
+D:\PROJECT DEVELOPER\Net\IAM\IAM\Keyboard\bin\x86\Debug\Keyboard.exe
+D:\PROJECT DEVELOPER\Net\IAM\IAM\Keyboard\bin\x86\Debug\Keyboard.pdb
+D:\PROJECT DEVELOPER\Net\IAM\IAM\Keyboard\bin\x86\Debug\RawInput.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\Keyboard\bin\x86\Debug\RawInput.pdb
+D:\PROJECT DEVELOPER\Net\IAM\IAM\Keyboard\obj\x86\Debug\Keyboard.csprojResolveAssemblyReference.cache
+D:\PROJECT DEVELOPER\Net\IAM\IAM\Keyboard\obj\x86\Debug\Keyboard.Keyboard.resources
+D:\PROJECT DEVELOPER\Net\IAM\IAM\Keyboard\obj\x86\Debug\Keyboard.Properties.Resources.resources
+D:\PROJECT DEVELOPER\Net\IAM\IAM\Keyboard\obj\x86\Debug\Keyboard.csproj.GenerateResource.Cache
+D:\PROJECT DEVELOPER\Net\IAM\IAM\Keyboard\obj\x86\Debug\Keyboard.exe
+D:\PROJECT DEVELOPER\Net\IAM\IAM\Keyboard\obj\x86\Debug\Keyboard.pdb
+D:\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\Keyboard.exe.config
+D:\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\Keyboard.exe
+D:\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\Keyboard.pdb
+D:\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\RawInput.dll
+D:\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\RawInput.pdb
+D:\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.csprojResolveAssemblyReference.cache
+D:\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.Keyboard.resources
+D:\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.Properties.Resources.resources
+D:\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.csproj.GenerateResource.Cache
+D:\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.exe
+D:\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.pdb
+E:\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\Keyboard.exe.config
+E:\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\Keyboard.exe
+E:\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\Keyboard.pdb
+E:\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\RawInput.dll
+E:\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\RawInput.pdb
+E:\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.csprojResolveAssemblyReference.cache
+E:\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.Keyboard.resources
+E:\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.Properties.Resources.resources
+E:\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.csproj.GenerateResource.Cache
+E:\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.exe
+E:\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\Keyboard.exe.config
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\Keyboard.exe
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\Keyboard.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\RawInput.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\RawInput.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.csprojResolveAssemblyReference.cache
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.Keyboard.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.Properties.Resources.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.csproj.GenerateResource.Cache
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.exe
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.pdb
+K:\FOTO\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\Keyboard.exe.config
+K:\FOTO\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\Keyboard.exe
+K:\FOTO\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\Keyboard.pdb
+K:\FOTO\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\RawInput.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\RawInput.pdb
+K:\FOTO\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.csprojResolveAssemblyReference.cache
+K:\FOTO\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.Keyboard.resources
+K:\FOTO\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.Properties.Resources.resources
+K:\FOTO\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.csproj.GenerateResource.Cache
+K:\FOTO\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.exe
+K:\FOTO\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.pdb
+D:\PROJECT\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\Keyboard.exe.config
+D:\PROJECT\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\Keyboard.exe
+D:\PROJECT\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\Keyboard.pdb
+D:\PROJECT\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\RawInput.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\Keyboard\bin\x86\Debug\RawInput.pdb
+D:\PROJECT\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.csprojResolveAssemblyReference.cache
+D:\PROJECT\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.Keyboard.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.Properties.Resources.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.csproj.GenerateResource.Cache
+D:\PROJECT\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.exe
+D:\PROJECT\Absensi Dengan Kamera\IAM\Keyboard\obj\x86\Debug\Keyboard.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\Keyboard\bin\x86\Debug\Keyboard.exe.config
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\Keyboard\bin\x86\Debug\Keyboard.exe
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\Keyboard\bin\x86\Debug\Keyboard.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\Keyboard\bin\x86\Debug\RawInput.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\Keyboard\bin\x86\Debug\RawInput.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\Keyboard\obj\x86\Debug\Keyboard.csprojResolveAssemblyReference.cache
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\Keyboard\obj\x86\Debug\Keyboard.Keyboard.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\Keyboard\obj\x86\Debug\Keyboard.Properties.Resources.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\Keyboard\obj\x86\Debug\Keyboard.csproj.GenerateResource.Cache
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\Keyboard\obj\x86\Debug\Keyboard.exe
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\Keyboard\obj\x86\Debug\Keyboard.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\Keyboard\bin\x86\Debug\Keyboard.exe.config
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\Keyboard\bin\x86\Debug\Keyboard.exe
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\Keyboard\bin\x86\Debug\Keyboard.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\Keyboard\bin\x86\Debug\RawInput.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\Keyboard\bin\x86\Debug\RawInput.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\Keyboard\obj\x86\Debug\Keyboard.csprojResolveAssemblyReference.cache
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\Keyboard\obj\x86\Debug\Keyboard.Keyboard.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\Keyboard\obj\x86\Debug\Keyboard.Properties.Resources.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\Keyboard\obj\x86\Debug\Keyboard.csproj.GenerateResource.Cache
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\Keyboard\obj\x86\Debug\Keyboard.exe
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\Keyboard\obj\x86\Debug\Keyboard.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\Keyboard\bin\x86\Debug\Keyboard.exe.config
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\Keyboard\bin\x86\Debug\Keyboard.exe
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\Keyboard\bin\x86\Debug\Keyboard.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\Keyboard\bin\x86\Debug\RawInput.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\Keyboard\bin\x86\Debug\RawInput.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\Keyboard\obj\x86\Debug\Keyboard.csprojResolveAssemblyReference.cache
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\Keyboard\obj\x86\Debug\Keyboard.Keyboard.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\Keyboard\obj\x86\Debug\Keyboard.Properties.Resources.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\Keyboard\obj\x86\Debug\Keyboard.csproj.GenerateResource.Cache
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\Keyboard\obj\x86\Debug\Keyboard.exe
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\Keyboard\obj\x86\Debug\Keyboard.pdb
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\Keyboard\bin\x86\Debug\Keyboard.exe.config
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\Keyboard\bin\x86\Debug\Keyboard.exe
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\Keyboard\bin\x86\Debug\Keyboard.pdb
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\Keyboard\bin\x86\Debug\RawInput.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\Keyboard\bin\x86\Debug\RawInput.pdb
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\Keyboard\obj\x86\Debug\Keyboard.csprojResolveAssemblyReference.cache
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\Keyboard\obj\x86\Debug\Keyboard.Keyboard.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\Keyboard\obj\x86\Debug\Keyboard.Properties.Resources.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\Keyboard\obj\x86\Debug\Keyboard.csproj.GenerateResource.Cache
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\Keyboard\obj\x86\Debug\Keyboard.exe
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\Keyboard\obj\x86\Debug\Keyboard.pdb

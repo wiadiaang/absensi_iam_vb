@@ -1,0 +1,439 @@
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\bin\Debug\IAM_VB.exe.config
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\bin\Debug\IAM_VB.exe
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\bin\Debug\IAM_VB.pdb
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\bin\Debug\IAM_VB.xml
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\bin\Debug\MySql.Data.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\bin\Debug\System.Data.DataSetExtensions.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\bin\Debug\System.Data.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\bin\Debug\System.Deployment.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\bin\Debug\System.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\bin\Debug\System.Drawing.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\bin\Debug\System.Windows.Forms.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\bin\Debug\System.Xml.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\bin\Debug\System.Xml.Linq.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\bin\Debug\Interop.WMPLib.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\bin\Debug\AxInterop.WMPLib.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\obj\x86\Debug\Interop.FlexCodeSDK.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\obj\x86\Debug\Interop.WMPLib.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.ResolveComReference.cache
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormImageFingerOut.resources
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormImageFingerPrint.resources
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormSignSignout.resources
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\obj\x86\Debug\IAM_VB.Resources.resources
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.GenerateResource.Cache
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\obj\x86\Debug\IAM_VB.exe
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\obj\x86\Debug\IAM_VB.xml
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\obj\x86\Debug\IAM_VB.pdb
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessagesFailed.resources
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageSukses.resources
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbprojResolveAssemblyReference.cache
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageInfo.resources
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\bin\Debug\UI.Glass.Panel.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\bin\Debug\UI.Glass.Panel.pdb
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormAbsensi.resources
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\IAM_VB.exe.config
+D:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\Interop.FlexCodeSDK.dll
+D:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\Interop.WMPLib.dll
+D:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.ResolveComReference.cache
+D:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.exe
+D:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.xml
+D:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.pdb
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\WinSCP.exe
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\IAM_VB.exe
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\IAM_VB.pdb
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\IAM_VB.xml
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Renci.SshNet.Async.dll
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Renci.SshNet.dll
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Data.dll
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Deployment.dll
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.dll
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Drawing.dll
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Windows.Forms.dll
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Xml.dll
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Xml.Linq.dll
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\UI.Glass.Panel.dll
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\WinSCPnet.dll
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\UI.Glass.Panel.pdb
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Renci.SshNet.xml
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Renci.SshNet.Async.xml
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Interop.WMPLib.dll
+D:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\AxInterop.WMPLib.dll
+D:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbprojResolveAssemblyReference.cache
+D:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormAbsensi.resources
+D:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageInfo.resources
+D:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormImageFingerOut.resources
+D:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormImageFingerPrint.resources
+D:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormSignSignout.resources
+D:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessagesFailed.resources
+D:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageSukses.resources
+D:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.Resources.resources
+D:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.StartUpForm.resources
+D:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.GenerateResource.Cache
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\WinSCP.exe
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\IAM_VB.exe.config
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\IAM_VB.exe
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\IAM_VB.pdb
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\IAM_VB.xml
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\MySql.Data.dll
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Renci.SshNet.Async.dll
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Renci.SshNet.dll
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Data.dll
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Deployment.dll
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.dll
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Drawing.dll
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Windows.Forms.dll
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Xml.dll
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Xml.Linq.dll
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\UI.Glass.Panel.dll
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\WinSCPnet.dll
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\UI.Glass.Panel.pdb
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Renci.SshNet.xml
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Renci.SshNet.Async.xml
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Interop.WMPLib.dll
+E:\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\AxInterop.WMPLib.dll
+E:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbprojResolveAssemblyReference.cache
+E:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\Interop.FlexCodeSDK.dll
+E:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\Interop.WMPLib.dll
+E:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.ResolveComReference.cache
+E:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormMessageInternet.resources
+E:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageSuksesAbsen.resources
+E:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormAbsensi.resources
+E:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageInfo.resources
+E:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormImageFingerOut.resources
+E:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormImageFingerPrint.resources
+E:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormSignSignout.resources
+E:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessagesFailed.resources
+E:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageSukses.resources
+E:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.Resources.resources
+E:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.StartUpForm.resources
+E:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.GenerateResource.Cache
+E:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.exe
+E:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.xml
+E:\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\WinSCP.exe
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\IAM_VB.exe.config
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\IAM_VB.exe
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\IAM_VB.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\IAM_VB.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\MySql.Data.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Renci.SshNet.Async.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Renci.SshNet.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Data.DataSetExtensions.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Data.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Deployment.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Drawing.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Windows.Forms.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Xml.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Xml.Linq.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\UI.Glass.Panel.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\WebCam_Capture.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\WinSCPnet.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\UI.Glass.Panel.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Renci.SshNet.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Renci.SshNet.Async.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Interop.WMPLib.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\AxInterop.WMPLib.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbprojResolveAssemblyReference.cache
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\Interop.FlexCodeSDK.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\Interop.WMPLib.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.ResolveComReference.cache
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormMessageInternet.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MainForm.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageSuksesAbsen.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormAbsensi.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageInfo.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormImageFingerOut.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormImageFingerPrint.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormSignSignout.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.SuccessOK.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageSukses.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.Resources.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.ok.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.StartUpForm.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.GenerateResource.Cache
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.exe
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.pdb
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\IAM_VB.exe.config
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\Interop.FlexCodeSDK.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\Interop.WMPLib.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\AxInterop.WMPLib.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.ResolveComReference.cache
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.exe
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.xml
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.pdb
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\WinSCP.exe
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\IAM_VB.exe
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\IAM_VB.pdb
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\IAM_VB.xml
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Renci.SshNet.Async.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Renci.SshNet.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Data.DataSetExtensions.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Data.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Deployment.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Drawing.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Windows.Forms.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Xml.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Xml.Linq.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\UI.Glass.Panel.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\WinSCPnet.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\UI.Glass.Panel.pdb
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Renci.SshNet.xml
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Renci.SshNet.Async.xml
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Interop.WMPLib.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\AxInterop.WMPLib.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbprojResolveAssemblyReference.cache
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormMessageInternet.resources
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MainForm.resources
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageSuksesAbsen.resources
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormAbsensi.resources
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageInfo.resources
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormImageFingerOut.resources
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormImageFingerPrint.resources
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormSignSignout.resources
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.SuccessOK.resources
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageSukses.resources
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.Resources.resources
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.ok.resources
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.StartUpForm.resources
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.GenerateResource.Cache
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\WinSCP.exe
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\IAM_VB.exe.config
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\IAM_VB.exe
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\IAM_VB.pdb
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\IAM_VB.xml
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Renci.SshNet.Async.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Renci.SshNet.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Data.DataSetExtensions.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Data.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Deployment.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Drawing.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Windows.Forms.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Xml.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\System.Xml.Linq.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\UI.Glass.Panel.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\WinSCPnet.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\UI.Glass.Panel.pdb
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Renci.SshNet.xml
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Renci.SshNet.Async.xml
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\Interop.WMPLib.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\bin\Debug\AxInterop.WMPLib.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbprojResolveAssemblyReference.cache
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\Interop.FlexCodeSDK.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\Interop.WMPLib.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.ResolveComReference.cache
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormMessageInternet.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MainForm.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageSuksesAbsen.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormAbsensi.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageInfo.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormImageFingerOut.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormImageFingerPrint.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormSignSignout.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.SuccessOK.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageSukses.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.Resources.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.ok.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.StartUpForm.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.GenerateResource.Cache
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.exe
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.xml
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM_VB\obj\x86\Debug\IAM_VB.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\WinSCP.exe
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\IAM_VB.exe.config
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\IAM_VB.exe
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\IAM_VB.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\IAM_VB.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\MySql.Data.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\Renci.SshNet.Async.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\Renci.SshNet.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\System.Data.DataSetExtensions.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\System.Data.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\System.Deployment.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\System.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\System.Drawing.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\System.Windows.Forms.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\System.Xml.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\System.Xml.Linq.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\UI.Glass.Panel.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\WebCam_Capture.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\WinSCPnet.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\UI.Glass.Panel.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\Renci.SshNet.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\Renci.SshNet.Async.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\Interop.WMPLib.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\AxInterop.WMPLib.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbprojResolveAssemblyReference.cache
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\Interop.FlexCodeSDK.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\Interop.WMPLib.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.ResolveComReference.cache
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormMessageInternet.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MainForm.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageSuksesAbsen.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormAbsensi.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageInfo.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormImageFingerOut.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormImageFingerPrint.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormSignSignout.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.SuccessOK.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageSukses.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.Resources.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.ok.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.StartUpForm.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.GenerateResource.Cache
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.exe
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\IAM_VB.exe.config
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\Interop.FlexCodeSDK.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\Interop.WMPLib.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.ResolveComReference.cache
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.exe
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.xml
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\WinSCP.exe
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\IAM_VB.exe
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\IAM_VB.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\IAM_VB.xml
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\Renci.SshNet.Async.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\Renci.SshNet.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\System.Data.DataSetExtensions.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\System.Data.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\System.Deployment.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\System.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\System.Drawing.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\System.Windows.Forms.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\System.Xml.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\System.Xml.Linq.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\UI.Glass.Panel.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\WinSCPnet.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\UI.Glass.Panel.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\Renci.SshNet.xml
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\Renci.SshNet.Async.xml
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\Interop.WMPLib.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\bin\Debug\AxInterop.WMPLib.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbprojResolveAssemblyReference.cache
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormMessageInternet.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MainForm.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageSuksesAbsen.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormAbsensi.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageInfo.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormImageFingerOut.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormImageFingerPrint.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormSignSignout.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.SuccessOK.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageSukses.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.Resources.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.ok.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.StartUpForm.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.GenerateResource.Cache
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\WinSCP.exe
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\IAM_VB.exe.config
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\IAM_VB.exe
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\IAM_VB.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\IAM_VB.xml
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\Renci.SshNet.Async.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\Renci.SshNet.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\System.Data.DataSetExtensions.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\System.Data.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\System.Deployment.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\System.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\System.Drawing.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\System.Windows.Forms.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\System.Xml.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\System.Xml.Linq.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\UI.Glass.Panel.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\WinSCPnet.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\UI.Glass.Panel.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\Renci.SshNet.xml
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\Renci.SshNet.Async.xml
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\Interop.WMPLib.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\bin\Debug\AxInterop.WMPLib.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbprojResolveAssemblyReference.cache
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\Interop.FlexCodeSDK.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\Interop.WMPLib.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.ResolveComReference.cache
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormMessageInternet.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MainForm.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageSuksesAbsen.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormAbsensi.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageInfo.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormImageFingerOut.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormImageFingerPrint.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormSignSignout.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\IAM_VB.SuccessOK.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageSukses.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\IAM_VB.Resources.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\IAM_VB.ok.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\IAM_VB.StartUpForm.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.GenerateResource.Cache
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\IAM_VB.exe
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\IAM_VB.xml
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM_VB\obj\x86\Debug\IAM_VB.pdb
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\WinSCP.exe
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\IAM_VB.exe.config
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\IAM_VB.exe
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\IAM_VB.pdb
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\IAM_VB.xml
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\MySql.Data.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\Renci.SshNet.Async.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\Renci.SshNet.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\System.Data.DataSetExtensions.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\System.Data.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\System.Deployment.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\System.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\System.Drawing.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\System.Windows.Forms.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\System.Xml.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\System.Xml.Linq.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\UI.Glass.Panel.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\WebCam_Capture.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\WinSCPnet.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\UI.Glass.Panel.pdb
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\Renci.SshNet.xml
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\Renci.SshNet.Async.xml
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\Interop.WMPLib.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\bin\Debug\AxInterop.WMPLib.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbprojResolveAssemblyReference.cache
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\Interop.FlexCodeSDK.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\Interop.WMPLib.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.ResolveComReference.cache
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormMessageInternet.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MainForm.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageSuksesAbsen.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormAbsensi.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageInfo.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormImageFingerOut.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormImageFingerPrint.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\IAM_VB.FormSignSignout.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\IAM_VB.SuccessOK.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\IAM_VB.MessageSukses.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\IAM_VB.Resources.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\IAM_VB.ok.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\IAM_VB.StartUpForm.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.GenerateResource.Cache
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\IAM_VB.exe
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\IAM_VB.xml
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM_VB\obj\x86\Debug\IAM_VB.pdb
+D:\PROJECT\BRIGHTON\Absensi sign signout\IAM\IAM_VB\bin\Debug\IAM_VB.exe.config
+D:\PROJECT\BRIGHTON\Absensi sign signout\IAM\IAM_VB\obj\x86\Debug\Interop.FlexCodeSDK.dll
+D:\PROJECT\BRIGHTON\Absensi sign signout\IAM\IAM_VB\obj\x86\Debug\Interop.WMPLib.dll
+D:\PROJECT\BRIGHTON\Absensi sign signout\IAM\IAM_VB\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\PROJECT\BRIGHTON\Absensi sign signout\IAM\IAM_VB\obj\x86\Debug\IAM_VB.vbproj.ResolveComReference.cache
+D:\PROJECT\BRIGHTON\Absensi sign signout\IAM\IAM_VB\obj\x86\Debug\IAM_VB.exe
+D:\PROJECT\BRIGHTON\Absensi sign signout\IAM\IAM_VB\obj\x86\Debug\IAM_VB.xml
+D:\PROJECT\BRIGHTON\Absensi sign signout\IAM\IAM_VB\obj\x86\Debug\IAM_VB.pdb

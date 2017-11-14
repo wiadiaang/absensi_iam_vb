@@ -1,0 +1,105 @@
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM\bin\Debug\IAM.exe.config
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM\bin\Debug\IAM.exe
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM\bin\Debug\IAM.pdb
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM\bin\Debug\LibUsbDotNet.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM\bin\Debug\USBHIDDRIVER.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM\bin\Debug\nunit.framework.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM\bin\Debug\USBHIDDRIVER.pdb
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM\bin\Debug\USBHIDDRIVER.xml
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM\bin\Debug\LibUsbDotNet.xml
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM\obj\x86\Debug\IAM.csprojResolveAssemblyReference.cache
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM\obj\x86\Debug\IAM.FormSignStudent.resources
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM\obj\x86\Debug\IAM.Properties.Resources.resources
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM\obj\x86\Debug\IAM.csproj.GenerateResource.Cache
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM\obj\x86\Debug\IAM.exe
+D:\PROJECT DEVELOPER\Net\IAM\IAM\IAM\obj\x86\Debug\IAM.pdb
+D:\Absensi Dengan Kamera\IAM\IAM\bin\Debug\IAM.exe.config
+D:\Absensi Dengan Kamera\IAM\IAM\bin\Debug\IAM.exe
+D:\Absensi Dengan Kamera\IAM\IAM\bin\Debug\IAM.pdb
+D:\Absensi Dengan Kamera\IAM\IAM\bin\Debug\LibUsbDotNet.xml
+D:\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.csprojResolveAssemblyReference.cache
+D:\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.FormSignStudent.resources
+D:\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.Properties.Resources.resources
+D:\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.csproj.GenerateResource.Cache
+D:\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.exe
+D:\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.pdb
+E:\Absensi Dengan Kamera\IAM\IAM\bin\Debug\IAM.exe.config
+E:\Absensi Dengan Kamera\IAM\IAM\bin\Debug\IAM.exe
+E:\Absensi Dengan Kamera\IAM\IAM\bin\Debug\IAM.pdb
+E:\Absensi Dengan Kamera\IAM\IAM\bin\Debug\LibUsbDotNet.dll
+E:\Absensi Dengan Kamera\IAM\IAM\bin\Debug\LibUsbDotNet.xml
+E:\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.FormSignStudent.resources
+E:\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.Properties.Resources.resources
+E:\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.csproj.GenerateResource.Cache
+E:\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.exe
+E:\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM\bin\Debug\IAM.exe.config
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM\bin\Debug\IAM.exe
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM\bin\Debug\IAM.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM\bin\Debug\LibUsbDotNet.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM\bin\Debug\LibUsbDotNet.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.FormSignStudent.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.Properties.Resources.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.csproj.GenerateResource.Cache
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.exe
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.pdb
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM\bin\Debug\IAM.exe.config
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM\bin\Debug\IAM.exe
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM\bin\Debug\IAM.pdb
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM\bin\Debug\LibUsbDotNet.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM\bin\Debug\LibUsbDotNet.xml
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.FormSignStudent.resources
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.Properties.Resources.resources
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.csproj.GenerateResource.Cache
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.exe
+K:\FOTO\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.pdb
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM\bin\Debug\IAM.exe.config
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM\bin\Debug\IAM.exe
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM\bin\Debug\IAM.pdb
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM\bin\Debug\LibUsbDotNet.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM\bin\Debug\LibUsbDotNet.xml
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.FormSignStudent.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.Properties.Resources.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.csproj.GenerateResource.Cache
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.exe
+D:\PROJECT\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\IAM\obj\x86\Debug\IAM.csprojResolveAssemblyReference.cache
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM\bin\Debug\IAM.exe.config
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM\bin\Debug\IAM.exe
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM\bin\Debug\IAM.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM\bin\Debug\LibUsbDotNet.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM\bin\Debug\LibUsbDotNet.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM\obj\x86\Debug\IAM.FormSignStudent.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM\obj\x86\Debug\IAM.Properties.Resources.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM\obj\x86\Debug\IAM.csproj.GenerateResource.Cache
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM\obj\x86\Debug\IAM.exe
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\IAM\obj\x86\Debug\IAM.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM\bin\Debug\IAM.exe.config
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM\bin\Debug\IAM.exe
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM\bin\Debug\IAM.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM\bin\Debug\LibUsbDotNet.xml
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM\obj\x86\Debug\IAM.csprojResolveAssemblyReference.cache
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM\obj\x86\Debug\IAM.FormSignStudent.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM\obj\x86\Debug\IAM.Properties.Resources.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM\obj\x86\Debug\IAM.csproj.GenerateResource.Cache
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM\obj\x86\Debug\IAM.exe
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\IAM\obj\x86\Debug\IAM.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM\bin\Debug\IAM.exe.config
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM\bin\Debug\IAM.exe
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM\bin\Debug\IAM.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM\obj\x86\Debug\IAM.FormSignStudent.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM\obj\x86\Debug\IAM.Properties.Resources.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM\obj\x86\Debug\IAM.csproj.GenerateResource.Cache
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM\obj\x86\Debug\IAM.exe
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM\obj\x86\Debug\IAM.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\IAM\obj\x86\Debug\IAM.csprojResolveAssemblyReference.cache
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM\bin\Debug\IAM.exe.config
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM\bin\Debug\IAM.exe
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM\bin\Debug\IAM.pdb
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM\bin\Debug\LibUsbDotNet.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM\bin\Debug\LibUsbDotNet.xml
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM\obj\x86\Debug\IAM.FormSignStudent.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM\obj\x86\Debug\IAM.Properties.Resources.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM\obj\x86\Debug\IAM.csproj.GenerateResource.Cache
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM\obj\x86\Debug\IAM.exe
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\IAM\obj\x86\Debug\IAM.pdb

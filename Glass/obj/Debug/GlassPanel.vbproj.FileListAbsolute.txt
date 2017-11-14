@@ -1,0 +1,72 @@
+D:\PROJECT DEVELOPER\Net\IAM\IAM\Glass\bin\Debug\UI.Glass.Panel.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\Glass\bin\Debug\UI.Glass.Panel.pdb
+D:\PROJECT DEVELOPER\Net\IAM\IAM\Glass\bin\Debug\UI.xml
+D:\PROJECT DEVELOPER\Net\IAM\IAM\Glass\obj\Debug\UI.Glass.Resources.resources
+D:\PROJECT DEVELOPER\Net\IAM\IAM\Glass\obj\Debug\GlassPanel.vbproj.GenerateResource.Cache
+D:\PROJECT DEVELOPER\Net\IAM\IAM\Glass\obj\Debug\UI.Glass.Panel.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\Glass\obj\Debug\UI.xml
+D:\PROJECT DEVELOPER\Net\IAM\IAM\Glass\obj\Debug\UI.Glass.Panel.pdb
+D:\Absensi Dengan Kamera\IAM\Glass\bin\Debug\UI.Glass.Panel.dll
+D:\Absensi Dengan Kamera\IAM\Glass\bin\Debug\UI.Glass.Panel.pdb
+D:\Absensi Dengan Kamera\IAM\Glass\bin\Debug\UI.xml
+D:\Absensi Dengan Kamera\IAM\Glass\obj\Debug\UI.Glass.Resources.resources
+D:\Absensi Dengan Kamera\IAM\Glass\obj\Debug\GlassPanel.vbproj.GenerateResource.Cache
+D:\Absensi Dengan Kamera\IAM\Glass\obj\Debug\UI.Glass.Panel.dll
+D:\Absensi Dengan Kamera\IAM\Glass\obj\Debug\UI.xml
+D:\Absensi Dengan Kamera\IAM\Glass\obj\Debug\UI.Glass.Panel.pdb
+E:\Absensi Dengan Kamera\IAM\Glass\bin\Debug\UI.Glass.Panel.dll
+E:\Absensi Dengan Kamera\IAM\Glass\bin\Debug\UI.Glass.Panel.pdb
+E:\Absensi Dengan Kamera\IAM\Glass\bin\Debug\UI.xml
+E:\Absensi Dengan Kamera\IAM\Glass\obj\Debug\UI.Glass.Resources.resources
+E:\Absensi Dengan Kamera\IAM\Glass\obj\Debug\GlassPanel.vbproj.GenerateResource.Cache
+E:\Absensi Dengan Kamera\IAM\Glass\obj\Debug\UI.Glass.Panel.dll
+E:\Absensi Dengan Kamera\IAM\Glass\obj\Debug\UI.xml
+E:\Absensi Dengan Kamera\IAM\Glass\obj\Debug\UI.Glass.Panel.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Glass\bin\Debug\UI.Glass.Panel.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Glass\bin\Debug\UI.Glass.Panel.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Glass\bin\Debug\UI.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Glass\obj\Debug\UI.Glass.Resources.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Glass\obj\Debug\GlassPanel.vbproj.GenerateResource.Cache
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Glass\obj\Debug\UI.Glass.Panel.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Glass\obj\Debug\UI.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\Glass\obj\Debug\UI.Glass.Panel.pdb
+D:\PROJECT\Absensi Dengan Kamera\IAM\Glass\bin\Debug\UI.Glass.Panel.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\Glass\bin\Debug\UI.Glass.Panel.pdb
+D:\PROJECT\Absensi Dengan Kamera\IAM\Glass\bin\Debug\UI.xml
+D:\PROJECT\Absensi Dengan Kamera\IAM\Glass\obj\Debug\UI.Glass.Resources.resources
+D:\PROJECT\Absensi Dengan Kamera\IAM\Glass\obj\Debug\GlassPanel.vbproj.GenerateResource.Cache
+D:\PROJECT\Absensi Dengan Kamera\IAM\Glass\obj\Debug\UI.Glass.Panel.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\Glass\obj\Debug\UI.xml
+D:\PROJECT\Absensi Dengan Kamera\IAM\Glass\obj\Debug\UI.Glass.Panel.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\Glass\bin\Debug\UI.Glass.Panel.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\Glass\bin\Debug\UI.Glass.Panel.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\Glass\bin\Debug\UI.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\Glass\obj\Debug\UI.Glass.Resources.resources
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\Glass\obj\Debug\GlassPanel.vbproj.GenerateResource.Cache
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\Glass\obj\Debug\UI.Glass.Panel.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\Glass\obj\Debug\UI.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\Glass\obj\Debug\UI.Glass.Panel.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\Glass\bin\Debug\UI.Glass.Panel.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\Glass\bin\Debug\UI.Glass.Panel.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\Glass\bin\Debug\UI.xml
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\Glass\obj\Debug\UI.Glass.Resources.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\Glass\obj\Debug\GlassPanel.vbproj.GenerateResource.Cache
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\Glass\obj\Debug\UI.Glass.Panel.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\Glass\obj\Debug\UI.xml
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\Glass\obj\Debug\UI.Glass.Panel.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\Glass\bin\Debug\UI.Glass.Panel.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\Glass\bin\Debug\UI.Glass.Panel.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\Glass\bin\Debug\UI.xml
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\Glass\obj\Debug\UI.Glass.Resources.resources
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\Glass\obj\Debug\GlassPanel.vbproj.GenerateResource.Cache
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\Glass\obj\Debug\UI.Glass.Panel.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\Glass\obj\Debug\UI.xml
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\Glass\obj\Debug\UI.Glass.Panel.pdb
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\Glass\bin\Debug\UI.Glass.Panel.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\Glass\bin\Debug\UI.Glass.Panel.pdb
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\Glass\bin\Debug\UI.xml
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\Glass\obj\Debug\UI.Glass.Resources.resources
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\Glass\obj\Debug\GlassPanel.vbproj.GenerateResource.Cache
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\Glass\obj\Debug\UI.Glass.Panel.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\Glass\obj\Debug\UI.xml
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\Glass\obj\Debug\UI.Glass.Panel.pdb

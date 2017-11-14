@@ -1,0 +1,40 @@
+D:\PROJECT DEVELOPER\Net\IAM\IAM\RawInput\bin\x86\Debug\RawInput.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\RawInput\bin\x86\Debug\RawInput.pdb
+D:\PROJECT DEVELOPER\Net\IAM\IAM\RawInput\obj\x86\Debug\RawInput.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\RawInput\obj\x86\Debug\RawInput.pdb
+D:\Absensi Dengan Kamera\IAM\RawInput\bin\x86\Debug\RawInput.dll
+D:\Absensi Dengan Kamera\IAM\RawInput\bin\x86\Debug\RawInput.pdb
+D:\Absensi Dengan Kamera\IAM\RawInput\obj\x86\Debug\RawInput.dll
+D:\Absensi Dengan Kamera\IAM\RawInput\obj\x86\Debug\RawInput.pdb
+E:\Absensi Dengan Kamera\IAM\RawInput\bin\x86\Debug\RawInput.dll
+E:\Absensi Dengan Kamera\IAM\RawInput\bin\x86\Debug\RawInput.pdb
+E:\Absensi Dengan Kamera\IAM\RawInput\obj\x86\Debug\RawInput.dll
+E:\Absensi Dengan Kamera\IAM\RawInput\obj\x86\Debug\RawInput.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\RawInput\bin\x86\Debug\RawInput.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\RawInput\bin\x86\Debug\RawInput.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\RawInput\obj\x86\Debug\RawInput.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\RawInput\obj\x86\Debug\RawInput.pdb
+K:\FOTO\Absensi Dengan Kamera\IAM\RawInput\bin\x86\Debug\RawInput.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\RawInput\bin\x86\Debug\RawInput.pdb
+K:\FOTO\Absensi Dengan Kamera\IAM\RawInput\obj\x86\Debug\RawInput.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\RawInput\obj\x86\Debug\RawInput.pdb
+D:\PROJECT\Absensi Dengan Kamera\IAM\RawInput\bin\x86\Debug\RawInput.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\RawInput\bin\x86\Debug\RawInput.pdb
+D:\PROJECT\Absensi Dengan Kamera\IAM\RawInput\obj\x86\Debug\RawInput.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\RawInput\obj\x86\Debug\RawInput.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\RawInput\bin\x86\Debug\RawInput.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\RawInput\bin\x86\Debug\RawInput.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\RawInput\obj\x86\Debug\RawInput.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\RawInput\obj\x86\Debug\RawInput.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\RawInput\bin\x86\Debug\RawInput.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\RawInput\bin\x86\Debug\RawInput.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\RawInput\obj\x86\Debug\RawInput.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\RawInput\obj\x86\Debug\RawInput.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\RawInput\bin\x86\Debug\RawInput.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\RawInput\bin\x86\Debug\RawInput.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\RawInput\obj\x86\Debug\RawInput.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\RawInput\obj\x86\Debug\RawInput.pdb
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\RawInput\bin\x86\Debug\RawInput.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\RawInput\bin\x86\Debug\RawInput.pdb
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\RawInput\obj\x86\Debug\RawInput.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\RawInput\obj\x86\Debug\RawInput.pdb

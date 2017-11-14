@@ -1,0 +1,61 @@
+D:\PROJECT DEVELOPER\Net\IAM\IAM\APPDAL\bin\Debug\APPDAL.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\APPDAL\bin\Debug\APPDAL.pdb
+D:\PROJECT DEVELOPER\Net\IAM\IAM\APPDAL\bin\Debug\LibUsbDotNet.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\APPDAL\bin\Debug\LibUsbDotNet.xml
+D:\PROJECT DEVELOPER\Net\IAM\IAM\APPDAL\obj\Debug\APPDAL.dll
+D:\PROJECT DEVELOPER\Net\IAM\IAM\APPDAL\obj\Debug\APPDAL.pdb
+D:\PROJECT DEVELOPER\Net\IAM\IAM\APPDAL\obj\Debug\APPDAL.csprojResolveAssemblyReference.cache
+D:\Absensi Dengan Kamera\IAM\APPDAL\bin\Debug\APPDAL.dll
+D:\Absensi Dengan Kamera\IAM\APPDAL\bin\Debug\APPDAL.pdb
+D:\Absensi Dengan Kamera\IAM\APPDAL\bin\Debug\LibUsbDotNet.xml
+D:\Absensi Dengan Kamera\IAM\APPDAL\obj\Debug\APPDAL.csprojResolveAssemblyReference.cache
+D:\Absensi Dengan Kamera\IAM\APPDAL\obj\Debug\APPDAL.dll
+D:\Absensi Dengan Kamera\IAM\APPDAL\obj\Debug\APPDAL.pdb
+E:\Absensi Dengan Kamera\IAM\APPDAL\bin\Debug\APPDAL.dll
+E:\Absensi Dengan Kamera\IAM\APPDAL\bin\Debug\APPDAL.pdb
+E:\Absensi Dengan Kamera\IAM\APPDAL\bin\Debug\LibUsbDotNet.dll
+E:\Absensi Dengan Kamera\IAM\APPDAL\bin\Debug\LibUsbDotNet.xml
+E:\Absensi Dengan Kamera\IAM\APPDAL\obj\Debug\APPDAL.dll
+E:\Absensi Dengan Kamera\IAM\APPDAL\obj\Debug\APPDAL.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\APPDAL\bin\Debug\APPDAL.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\APPDAL\bin\Debug\APPDAL.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\APPDAL\bin\Debug\LibUsbDotNet.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\APPDAL\bin\Debug\LibUsbDotNet.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\APPDAL\obj\Debug\APPDAL.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\APPDAL\obj\Debug\APPDAL.pdb
+K:\FOTO\Absensi Dengan Kamera\IAM\APPDAL\bin\Debug\APPDAL.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\APPDAL\bin\Debug\APPDAL.pdb
+K:\FOTO\Absensi Dengan Kamera\IAM\APPDAL\bin\Debug\LibUsbDotNet.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\APPDAL\bin\Debug\LibUsbDotNet.xml
+K:\FOTO\Absensi Dengan Kamera\IAM\APPDAL\obj\Debug\APPDAL.dll
+K:\FOTO\Absensi Dengan Kamera\IAM\APPDAL\obj\Debug\APPDAL.pdb
+D:\PROJECT\Absensi Dengan Kamera\IAM\APPDAL\bin\Debug\APPDAL.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\APPDAL\bin\Debug\APPDAL.pdb
+D:\PROJECT\Absensi Dengan Kamera\IAM\APPDAL\bin\Debug\LibUsbDotNet.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\APPDAL\bin\Debug\LibUsbDotNet.xml
+D:\PROJECT\Absensi Dengan Kamera\IAM\APPDAL\obj\Debug\APPDAL.dll
+D:\PROJECT\Absensi Dengan Kamera\IAM\APPDAL\obj\Debug\APPDAL.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera\IAM\APPDAL\obj\Debug\APPDAL.csprojResolveAssemblyReference.cache
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\APPDAL\bin\Debug\APPDAL.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\APPDAL\bin\Debug\APPDAL.pdb
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\APPDAL\bin\Debug\LibUsbDotNet.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\APPDAL\bin\Debug\LibUsbDotNet.xml
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\APPDAL\obj\Debug\APPDAL.dll
+D:\PROJECT\BrightOn\Absensi Dengan Kamera4\IAM\APPDAL\obj\Debug\APPDAL.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\APPDAL\bin\Debug\APPDAL.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\APPDAL\bin\Debug\APPDAL.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\APPDAL\bin\Debug\LibUsbDotNet.xml
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\APPDAL\obj\Debug\APPDAL.csprojResolveAssemblyReference.cache
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\APPDAL\obj\Debug\APPDAL.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4\IAM\APPDAL\obj\Debug\APPDAL.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\APPDAL\bin\Debug\APPDAL.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\APPDAL\bin\Debug\APPDAL.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\APPDAL\obj\Debug\APPDAL.dll
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\APPDAL\obj\Debug\APPDAL.pdb
+D:\PROJECT\BRIGHTON\Absensi_Serial\Absensi Dengan Kamera4 Brgihton\IAM\APPDAL\obj\Debug\APPDAL.csprojResolveAssemblyReference.cache
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\APPDAL\bin\Debug\APPDAL.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\APPDAL\bin\Debug\APPDAL.pdb
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\APPDAL\bin\Debug\LibUsbDotNet.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\APPDAL\bin\Debug\LibUsbDotNet.xml
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\APPDAL\obj\Debug\APPDAL.dll
+D:\PROJECT\BRIGHTON\Absensi Dengan Kamera6\IAM\APPDAL\obj\Debug\APPDAL.pdb
